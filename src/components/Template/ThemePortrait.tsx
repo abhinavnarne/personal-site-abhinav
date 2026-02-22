@@ -1,3 +1,7 @@
+'use client';
+
+import { useEffect, useState } from 'react';
+
 interface ThemePortraitProps {
   width: number;
   height: number;
@@ -21,12 +25,22 @@ export default function ThemePortrait({
   priority = false,
   className = '',
 }: ThemePortraitProps) {
+  const [isHydrated, setIsHydrated] = useState(false);
+
+  useEffect(() => {
+    setIsHydrated(true);
+  }, []);
+
+  if (!isHydrated) {
+    return <span className={`theme-portrait ${className}`} />;
+  }
+
   return (
     <span className={`theme-portrait ${className}`}>
       {/* biome-ignore lint/performance/noImgElement: Using native img to avoid next/image runtime overhead for static export */}
       <img
-        src="/images/me-light.jpg"
-        alt="Michael D'Angelo"
+        src="/images/abhi.jpeg"
+        alt="Abhinav Narne"
         width={width}
         height={height}
         loading={priority ? 'eager' : 'lazy'}
@@ -35,8 +49,8 @@ export default function ThemePortrait({
       />
       {/* biome-ignore lint/performance/noImgElement: Using native img to avoid next/image runtime overhead for static export */}
       <img
-        src="/images/me-dark.jpg"
-        alt="Michael D'Angelo"
+        src="/images/abhi.jpeg"
+        alt="Abhinav Narne"
         width={width}
         height={height}
         loading="lazy"

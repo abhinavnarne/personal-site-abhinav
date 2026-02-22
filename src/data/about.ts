@@ -1,8 +1,11 @@
 export const aboutMarkdown = `# Intro
 
-I am the co-founder and CTO of [Promptfoo](https://promptfoo.dev), the most widely adopted open-source LLM security tool. We help teams discover and eliminate LLM risks through automated red-teaming and vulnerability analysis. Before Promptfoo, I was the VP of Engineering at [Smile ID](https://usesmileid.com), where I led teams building identity verification APIs that now process hundreds of millions of checks across Africa. I also co-founded [Arthena](https://arthena.com) (acquired by Masterworks) and [Matroid](https://matroid.com).
+I am a Senior Software Engineer with over seven years of professional experience designing, developing, and delivering scalable software solutions across diverse domains. My expertise lies in building high-performance backend systems using Java and cloud-native technologies, with a strong emphasis on clean architecture, reliability, and long-term maintainability. Throughout my career, I have focused on engineering solutions that not only meet business requirements but also scale efficiently, remain resilient under load, and adapt seamlessly to evolving technological landscapes.
 
-In my spare time, I enjoy investing in people and ideas through a [small venture fund](https://skepticalinvestments.biz), focusing on projects with high social impact. If you think I can be helpful to you or your cause, or if you're interested in collaborating, feel free to get in touch.
+My core technical strengths center around Java, Spring Boot, and AWS. I have extensive experience developing RESTful APIs, implementing microservices architectures, and deploying distributed systems in cloud environments. I am deeply familiar with designing systems that emphasize modularity, fault tolerance, and observability. Whether building a new application from the ground up or modernizing an existing monolithic system, I approach every project with a structured and performance-driven mindset.
+
+Over the years, I have worked on complex backend systems that handle large volumes of data and user interactions. I prioritize writing clean, well-documented code that aligns with industry best practices and architectural standards. My experience includes implementing authentication and authorization mechanisms, integrating third-party APIs, optimizing database queries, and enhancing system performance through profiling and monitoring tools. I consistently strive to reduce technical debt while improving system efficiency and reliability.
+
 
 # Some History
 

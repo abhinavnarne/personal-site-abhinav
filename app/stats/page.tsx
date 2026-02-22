@@ -7,7 +7,7 @@ import PageWrapper from '@/components/Template/PageWrapper';
 
 export const metadata: Metadata = {
   title: 'Stats',
-  description: "Some statistics about Michael D'Angelo and mldangelo.com",
+  description: "Some statistics about Abhinav Narne and mldangelo.com",
 };
 
 export default function StatsPage() {

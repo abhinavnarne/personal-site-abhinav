@@ -7,7 +7,7 @@ import data from '@/data/projects';
 export const metadata: Metadata = {
   title: 'Archive',
   description:
-    "Early projects and experiments from Michael D'Angelo (2015 and earlier).",
+    "Early projects and experiments from Abhinav Narne (2015 and earlier).",
 };
 
 export default function ProjectsPage() {

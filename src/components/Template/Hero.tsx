@@ -11,23 +11,23 @@ export default function Hero() {
         </div>
 
         <h1 className="hero-title">
-          <span className="hero-name">Michael D&apos;Angelo</span>
+          <span className="hero-name">Abhinav Narne</span>
         </h1>
 
         <p className="hero-tagline">
-          Co-founder & CTO at{' '}
-          <a href="https://promptfoo.dev" className="hero-highlight">
-            Promptfoo
+          Senior Software Engineer at{' '}
+          <a href="https://www.cgi.com/en" className="hero-highlight">
+            CGI
           </a>
-          , the most widely adopted open-source LLM security platform.
+          , I bring deep expertise in Java and AWS-driven cloud solutions.
           <br />
-          Building AI products for over a decade.
+          I focus on building reliable systems that support business growth while maintaining engineering excellence.
         </p>
 
         <div className="hero-chips">
-          <span className="hero-chip">YC Alum</span>
-          <span className="hero-chip">Stanford ICME</span>
-          <span className="hero-chip">Co-founded Arthena & Matroid</span>
+          <span className="hero-chip">Valpo Alum</span>
+          <span className="hero-chip">Developer</span>
+          <span className="hero-chip">Pioneer</span>
         </div>
 
         <div className="hero-cta">

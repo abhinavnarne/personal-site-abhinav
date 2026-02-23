@@ -21,7 +21,7 @@ export default function Hero() {
           </a>
           , I bring deep expertise in Java and AWS-driven cloud solutions.
           <br />
-          I focus on building reliable systems that support business growth while maintaining engineering excellence.
+          I focus on building reliable systems that support business growth while maintaining engineering excellllence.
         </p>
 
         <div className="hero-chips">

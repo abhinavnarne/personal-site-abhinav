@@ -23,7 +23,8 @@
     "test:coverage": "vitest run --coverage",
     "test:ui": "vitest --ui",
     "predeploy": "npm run build",
-    "analyze": "ANALYZE=true npm run build"
+    "analyze": "ANALYZE=true npm run build",
+    "deploy": "wrangler deploy"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^7.1.0",

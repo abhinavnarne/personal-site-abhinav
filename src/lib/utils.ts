@@ -3,9 +3,9 @@
  */
 
 // Site configuration
-export const SITE_URL = 'https://mldangelo.com';
+export const SITE_URL = 'https://www.abhinavnarne.com';
 export const AUTHOR_NAME = "Abhinav Narne";
-export const TWITTER_HANDLE = '@dangelosaurus';
+export const TWITTER_HANDLE = '';
 
 // Image dimension constants
 export const AVATAR_SIZE = {

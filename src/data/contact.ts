@@ -15,12 +15,12 @@ export interface ContactItem {
 
 const data: ContactItem[] = [
   {
-    link: 'https://www.linkedin.com/in/michaelldangelo',
+    link: 'https://www.linkedin.com/in/abhinavnarne',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
   {
-    link: 'https://github.com/mldangelo',
+    link: 'https://github.com/abhinavnarne',
     label: 'Github',
     icon: faGithub,
   },
@@ -30,7 +30,7 @@ const data: ContactItem[] = [
     icon: faTwitter,
   },
   {
-    link: 'https://angel.co/michael-d-angelo',
+    link: 'https://angel.co/abhinavnarne',
     label: 'Angel List',
     icon: faAngellist,
   },
@@ -40,12 +40,12 @@ const data: ContactItem[] = [
     icon: faInstagram,
   },
   {
-    link: 'https://facebook.com/d',
+    link: 'https://facebook.com/abhinavnarne',
     label: 'Facebook',
     icon: faFacebookF,
   },
   {
-    link: 'mailto:michael.l.dangelo@gmail.com',
+    link: 'mailto:hi@abhinavnarne.com',
     label: 'Email',
     icon: faEnvelope,
   },

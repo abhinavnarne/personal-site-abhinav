@@ -25,10 +25,7 @@ export default function ResumePage() {
         <header className="resume-header">
           <h1 className="resume-title">Resume</h1>
           <p className="resume-summary">
-            Engineering leader with 10+ years building products at the
-            intersection of machine learning and security. Currently CTO &
-            Co-founder at Promptfoo, building open-source LLM security tools.
-            Stanford MS, YC alum, previously VP Engineering.
+            Engineering leader with 10+ years building products and teams. Currently a Senior Software Engineer at CGI, I have deep expertise in Java and AWS-driven cloud solutions. I focus on building reliable systems that support business growth while maintaining engineering excellence.
           </p>
         </header>
 

@@ -27,7 +27,7 @@ const raleway = Raleway({
 });
 
 const siteDescription =
-  'Co-founder & CTO building LLM security tools. Previously VP Engineering, YC alum, Stanford ICME.';
+  'Senior Software Engineer | AWS Certified | Scrum Certified';
 
 export const metadata: Metadata = {
   title: {
@@ -56,8 +56,8 @@ export const metadata: Metadata = {
     images: [
       {
         url: '/images/abhi.jpeg',
-        width: 1200,
-        height: 630,
+        width: 400,
+        height: 400,
         alt: AUTHOR_NAME,
       },
     ],
